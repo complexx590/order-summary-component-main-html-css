@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![preview for the Order summary card coding challenge](https://complexx590.github.io/order-summary-component-main-html-css/)
 
 ## Welcome! 👋
 
